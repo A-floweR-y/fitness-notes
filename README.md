@@ -5,3 +5,4 @@
 - [第二天 练胸](./docs/2-day.md)
 - [第三天 练背+腹肌](./docs/3-day.md)
 - [第四天 练肩](./docs/4-day.md)
+- [第五天 练手臂](./docs/5-day.md)
